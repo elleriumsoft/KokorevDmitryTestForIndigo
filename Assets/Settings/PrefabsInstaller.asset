@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532ad58e2ac81c747b614412c7f89c67, type: 3}
+  m_Name: PrefabsInstaller
+  m_EditorClassIdentifier: 
+  _questionWindow: {fileID: 114483083418840332, guid: 468e1f3dbc648ec419c1921cad2824bf,
+    type: 2}
+  _solutionView: {fileID: 114720596302538620, guid: fe2af1a2a8c177e4085acfe8045feb4f,
+    type: 2}
+  _solutionWindow: {fileID: 114006812670090932, guid: 9f5890c21300f724f92b80b306550522,
+    type: 2}
+  _endGameWindow: {fileID: 114797045258697454, guid: f8f863e1903c18a40875400c636356cb,
+    type: 2}
+  _settings: {fileID: 11400000, guid: 08219c90935e72f40a0158d574ac39d2, type: 2}
